@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-FaasJS is an Atomic Application Framework based on Typescript.
+[FaasJS](https://faasjs.com) is an Atomic Application Framework based on Typescript.
 
 ## Features
 
