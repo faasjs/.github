@@ -4,21 +4,21 @@
 
 ## Features
 
-**High development efficiency**
+### Featherweight Development & Collaboration
 
-The atomized development model can reduce development and iteration to a featherweight level and is more friendly to team development.
+- Break down complex projects into manageable components with the **atomized development model**.
+- Enjoy **fast iterations** and **seamless** team collaboration.
+- Jumpstart development with **pre-built plugins** for common functionalities like HTTP and Knex.
 
-FaasJS officially provides plugins such as HTTP, Knex, etc., so that developers can start developing business immediately.
+### High maintainability
 
-**High maintainability**
+- The **FaaS architecture** ensures isolated cloud functions, preventing domino-effect errors.
+- **Automated testing tools** built-in for **robust and efficient testing**.
 
-The FaaS architecture guarantees the independence between cloud functions and prevents a single error from causing the failure of the entire system.
+### High scalability
 
-FaasJS has built-in automated testing tools to facilitate developers to automate the testing of cloud functions.
-
-**High scalability**
-
-FaasJS has a simple and easy-to-use plug-in mechanism that allows developers to extend functions and plugins freely.
+- Extend your application effortlessly with **flexible and simple plugin mechanisms**.
+- **Freely scale** your functions up or down based on demand.
 
 ## Quickstart
 
